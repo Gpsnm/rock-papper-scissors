@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    height: auto;
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.btn {
+background-color: blanchedalmond;
+width: 300px;
+height: 100px;
+margin: 50px;
+margin-top: 300px;
+
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.div1{
+    width:300px;
+    height: 100px;
+    background-color: blanchedalmond;
+    margin:50px;
+}
